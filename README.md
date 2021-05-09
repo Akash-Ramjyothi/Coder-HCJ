@@ -1,8 +1,33 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![coding](https://user-images.githubusercontent.com/54114888/117584832-c3684500-b12c-11eb-9793-13df7d988bcb.png)
+# Coder HCJ (HTML, CSS, Javascript)
 
-## Available Scripts
+## 📑 Description:
+The "Coder HCJ" is a testing and showcasing platform for user created HTML, CSS and JavaScript code snippets. It allows to write code in the browser, and see the results of it as it builds.
 
-In the project directory, you can run:
+## 📽 Sample Demo:
+https://user-images.githubusercontent.com/54114888/117577713-868a5700-b108-11eb-8e60-be1c864354dc.mp4
+
+## 🏗 Built with:
+- Codemirror
+- Storage hook.
+- React.JS.
+- HTML.
+- CSS.
+
+## 👦 Developed By:
+- Akash Ramjyothi.
+- Email ID: akash.ramjyothi@gmail.com
+- PH: +91 8939928002.
+- LinkedIn: https://www.linkedin.com/in/akash-ramjyothi/
+
+## 🌐 References Used:
+- https://codingflag.blogspot.com/2020/09/build-your-own-live-code-editor-using-html-css-and-javascript.html
+- https://blogs.stackfindover.com/how-to-make-a-website-like-codepen/
+- https://www.youtube.com/watch?v=1IcD56FRdw4
+- https://www.youtube.com/watch?v=Rsbp-ZGKsn0
+- https://www.youtube.com/watch?v=wcVxX7lu2d4
+
+## 🧪 Steps to locally build the website:
 
 ### `npm start`
 
@@ -26,43 +51,3 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
