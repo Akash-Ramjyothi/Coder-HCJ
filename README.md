@@ -4,11 +4,15 @@
 ## 📑 Description:
 The "Coder HCJ" is a testing and showcasing platform for user created HTML, CSS and JavaScript code snippets. It allows to write code in the browser, and see the results of it as it builds.
 
+## 🌎 Deployed Website:
+https://coder-hcj.netlify.app/
+
 ## 📽 Sample Demo:
-https://user-images.githubusercontent.com/54114888/117577713-868a5700-b108-11eb-8e60-be1c864354dc.mp4
+https://user-images.githubusercontent.com/54114888/117588524-6cb93600-b141-11eb-857a-394412cf19be.mp4
+
 
 ## 🏗 Built with:
-- Codemirror
+- Codemirror.
 - Storage hook.
 - React.JS.
 - HTML.
