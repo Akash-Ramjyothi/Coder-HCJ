@@ -19,17 +19,18 @@ body {
   background-color: #444444;
 }
 .header span {
-  color: #caf7e3;
+  color: #32ff6a;
   font-weight: 300;
+  font-weight: bold;
 }
 
 .color1 {
-  color: #f6b8b8;
+  color: #5ff4ee;
   font-weight: 300;
 }
 
 .color2 {
-  color: #d83a56;
+  color: #ff0000;
   font-weight: bold;
 }
 
@@ -203,6 +204,7 @@ body {
   flex-direction: column;
   margin: 0.5rem;
   background-color: #444444;
+  z-index: 1;
 }
 
 .editor-container.collapsed {
