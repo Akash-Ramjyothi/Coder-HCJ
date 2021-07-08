@@ -2,7 +2,7 @@
 
 body {
   margin: 0;
-  background-color: #444444;
+  background-color: #5ff4ee;
 }
 
 /* Navbar Styles */
@@ -11,14 +11,12 @@ body {
   text-justify: auto;
   height: 2.5rem;
   font-size: 2.5rem;
+  font-weight: 1000;
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
-  color: #5ff4ee;
-}
-
-.header > span {
-  padding-left: 6px;
-  color: #c2fcf6;
+  color: #033fff;
+  font-family: 'Roboto';
+  text-shadow: 2px 2px #c8cbd8;
 }
 
 .github-corner {
@@ -60,10 +58,10 @@ body {
 .pane {
   height: 50vh;
   display: flex;
-  background-color: #444444;
+  background-color: #5ff4ee;
   margin: 5px;
   border-radius: 5px;
-  border-color: #444444;
+  border-color: #5ff4ee;
 }
 
 .pane-bottom {
@@ -77,7 +75,7 @@ body {
   display: flex;
   flex-direction: column;
   margin: 0.5rem;
-  background-color: #444444;
+  background-color: #5ff4ee;
   z-index: 1;
 }
 
@@ -101,7 +99,7 @@ body {
 .editor-title {
   display: flex;
   justify-content: space-between;
-  background-color: #726a95;
+  background-color: #4a9ff5;
   color: white;
   font-weight: bold;
   font-family: 'Roboto';
