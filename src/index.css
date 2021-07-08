@@ -10,13 +10,17 @@ body {
   text-align: center;
   text-justify: auto;
   height: 2.5rem;
-  font-size: 2.5rem;
-  font-weight: 1000;
+  font-size: 3.7rem;
+  font-weight: 900;
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
-  color: #033fff;
+  color: #810000;
   font-family: 'Roboto';
   text-shadow: 2px 2px #c8cbd8;
+}
+
+.header > span {
+  padding: 0 15px;
 }
 
 .github-corner {
